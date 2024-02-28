@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eoI7lIZkJ5vCsEOJ1HiHD791vca6vj01mgTmBdZsejM=",
+  "Source": "BrowserTravelApi",
+  "BasePath": "_content/BrowserTravelApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
